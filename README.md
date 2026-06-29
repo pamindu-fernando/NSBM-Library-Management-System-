@@ -76,7 +76,7 @@ A robust, secure system designed to streamline library operations. This platform
       VALUES ('User', 'user', 'user','user');
 
  ```
-3. **⚠️ Important:**
+3. **Important:**
 
    - Edit the \`php.ini\`
 ```txt
